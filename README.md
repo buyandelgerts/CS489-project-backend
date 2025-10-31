@@ -1,3 +1,6 @@
+Username: user
+Password: pass123
+
 🧩 Spring Boot JWT Authentication API
 
 A full-stack web application backend built with Spring Boot, featuring secure JWT-based authentication, modular architecture (Controllers, DTOs, Models, and Services), and tested with JUnit and Mockito.
